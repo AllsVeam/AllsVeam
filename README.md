@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Alaans Vega
+## Hi there 👋 I'm Alan Vega
 
 🎯 **Full-Stack & Mobile Developer | React Native & Flutter Enthusiast | Firebase & Backend Integrator**  
 
@@ -45,9 +45,12 @@
 ---
 
 ### 📫 Contact Me
-- **Email:** [alaans.vega@example.com](mailto:alaans.vega@example.com)  
+- **Email:** [alaansvega@gmail.com](mailto:alaansvega@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/alaans-vega](https://linkedin.com/in/alaans-vega)  
+<!--
+
 - **Portfolio:** *(Add your portfolio link here)*  
+-->
 
 ---
 
@@ -55,3 +58,16 @@
 - I love **turning ideas into apps** that help people and businesses.  
 - Always looking for ways to **combine fitness and productivity** in daily routines.  
 - Big fan of **learning by building projects**, no matter how small.  
+
+--- 
+
+## Activity on GitHub
+<!-- 
+¡Aquí puedes ver mi actividad reciente en GitHub!
+-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllsVeam&show_icons=true&hide_border=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllsVeam&hide_border=true&layout=compact)  
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/AllsVeam/AllsVeam)  
