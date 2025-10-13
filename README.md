@@ -71,3 +71,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllsVeam&hide_border=true&layout=compact)  
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/AllsVeam/AllsVeam)  
+
+
+
+<!-- seguir modificando https://shields.io/badges -->
