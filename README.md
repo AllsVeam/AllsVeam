@@ -78,3 +78,6 @@
 <!--RECENT_ACTIVITY:last_update-->
 
 <!-- seguir modificando https://shields.io/badges -->
+
+  ![Snake animation](https://github.com/AllsVeam/AllsVeam/blob/output/github-contribution-grid-snake.svg)
+
